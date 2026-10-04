@@ -1,0 +1,3 @@
+step,rows_before,rows_after,dropped,reason
+drop duplicates,46480,46480,0,exact duplicate rows
+drop missing target,46480,46480,0,cannot be forecast

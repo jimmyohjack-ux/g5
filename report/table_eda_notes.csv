@@ -1,0 +1,7 @@
+column,note
+kurt,"strongly skewed, consider log or tree models"
+peak,"strongly skewed, consider log or tree models"
+crest,"strongly skewed, consider log or tree models"
+skew,"strongly skewed, consider log or tree models"
+p2p,"strongly skewed, consider log or tree models"
+hi,"strongly skewed, consider log or tree models"

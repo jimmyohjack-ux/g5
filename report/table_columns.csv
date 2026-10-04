@@ -1,0 +1,14 @@
+column,reason,decision
+test,other,review
+snap,time/unit key,keep for feature building
+ts,other,review
+ch,time/unit key,keep for feature building
+rms,correlation with target -0.54,keep
+kurt,correlation with target -0.18,keep
+peak,correlation with target -0.42,keep
+crest,correlation with target -0.04,consider dropping
+skew,other,review
+p2p,other,review
+n_snap,other,review
+rul,target,keep
+hi,correlation with target -0.47,keep
