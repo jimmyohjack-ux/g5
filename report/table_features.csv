@@ -1,0 +1,12 @@
+feature,group
+rms,exogenous/structural
+rms_ma6,lag/rolling
+rms_d6,exogenous/structural
+kurt,exogenous/structural
+kurt_ma6,lag/rolling
+peak,exogenous/structural
+peak_max12,lag/rolling
+crest,exogenous/structural
+skew,exogenous/structural
+p2p,exogenous/structural
+hi,exogenous/structural

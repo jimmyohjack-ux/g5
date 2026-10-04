@@ -1,0 +1,6 @@
+,MAE_hours
+Naive (baseline),390.0682
+Ridge,408.2804
+Random Forest,433.0582
+LightGBM,443.368
+XGBoost,433.9301

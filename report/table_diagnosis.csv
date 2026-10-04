@@ -1,0 +1,5 @@
+question,evidence,assessment
+beats naive,-4.7% vs naive,"unclear, revisit features"
+overfitting,train 22.29 vs test 443.37,signs present
+error by period,highest 24: 966.51,revisit seasonal features
+peaks vs base,MAE on top 10% values: 906.43,consider quantile loss
